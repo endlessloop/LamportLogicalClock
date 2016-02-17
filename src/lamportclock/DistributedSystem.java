@@ -43,7 +43,7 @@ public class DistributedSystem {
 			while (i < 3) {
 				BufferedReader br = new BufferedReader(new InputStreamReader(
 						System.in));
-					System.out.print("Enter the events for the node " + (i + 1) + ":");
+					System.out.print("Enter the events for the node " + (i + 1) + ": ");
 					br = new BufferedReader(new InputStreamReader(System.in));
 					String eventString = br.readLine();
 					inputEventList.add(eventString.split(","));
