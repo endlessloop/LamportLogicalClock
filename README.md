@@ -1,7 +1,7 @@
 # LamportLogicalClock
 
 **Command to run:**  
-**Linux / Mac**: ./lamport
+**Linux / Mac**: ./lamport  
 **Windows:** lamport.bat
   
 Please provide input in this format: L,L,L,S,R-2,S   
